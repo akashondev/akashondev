@@ -219,9 +219,7 @@ Designing and building complete web products with ownership across user interfac
 ## Contribution Snake
 
 <div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/akashondev/akashondev/output/github-contribution-grid-snake-dark.svg?v=2)
-
+  <img src="https://raw.githubusercontent.com/akashondev/akashondev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
