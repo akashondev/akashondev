@@ -220,7 +220,7 @@ Designing and building complete web products with ownership across user interfac
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/akashondev/akashondev/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/akashondev/akashondev/output/github-contribution-grid-snake-dark.svg?v=2)
 
 </div>
 
