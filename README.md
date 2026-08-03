@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=Akash%20Vishwakarma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20Computer%20Science%20Graduate&descAlignY=56&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=Akash%20Vishwakarma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Computer%20Science%20Graduate&descAlignY=56&descSize=17)
 
-<h3>Building User-Centric Full-Stack & Mobile Applications</h3>
+<h3>Building User-Centric Full-Stack Web Applications</h3>
 
-<p><strong>React.js · Node.js · Express.js · MongoDB · Java · Kotlin · Android · Supabase</strong></p>
+<p><strong>React.js · Node.js · Express.js · MongoDB · JavaScript · SQL</strong></p>
 
 <p>Turning ideas into reliable, scalable, and thoughtfully engineered digital products.</p>
 
@@ -27,9 +27,9 @@
 
 ## About
 
-I am a **Computer Science graduate and full-stack developer** focused on building scalable, user-centric web and mobile applications. My core development stack includes **React.js, Node.js, Express.js, Java, Kotlin, SQL, MongoDB, and Supabase**.
+I am a **Computer Science graduate and full-stack developer** focused on building scalable, user-centric web applications. My core development stack includes **React.js, Node.js, Express.js, JavaScript, SQL, and MongoDB**.
 
-I enjoy translating real product requirements into clean interfaces, reliable backend workflows, and practical features. My project work covers movie discovery and booking, real-time seat management, online payments, administration dashboards, mobile video processing, user management, and cloud-backed storage.
+I enjoy translating real product requirements into clean interfaces, reliable backend workflows, and practical features. My project work covers movie discovery and booking, real-time seat management, online payments, administration dashboards, user management, and database-backed applications.
 
 My engineering approach combines strong fundamentals with hands-on implementation. I care about readable code, responsive experiences, secure data handling, performance, and building products that solve clear user problems.
 
@@ -37,7 +37,7 @@ My engineering approach combines strong fundamentals with hands-on implementatio
 
 - Frontend Developer and React Developer roles
 - Full-Stack Developer opportunities
-- Java, Android, and mobile application projects
+- JavaScript, React.js, and Node.js projects
 - Internships, entry-level roles, and collaborative open-source work
 
 ---
@@ -46,7 +46,7 @@ My engineering approach combines strong fundamentals with hands-on implementatio
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,python,javascript,cpp,kotlin,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 
@@ -58,7 +58,7 @@ My engineering approach combines strong fundamentals with hands-on implementatio
 
 ### Cloud, DevOps & Tooling
 
-[![Tooling](https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,postman&theme=dark)](https://skillicons.dev)
+[![Tooling](https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -69,7 +69,7 @@ My engineering approach combines strong fundamentals with hands-on implementatio
 | AI-Assisted Development | Proficient | Uses AI tools to accelerate research, debugging, implementation, and technical learning while validating generated output. |
 | Data Visualization | Proficient | Certified in Tableau Data Visualization with an understanding of presenting data through clear, decision-friendly visuals. |
 | Robotic Process Automation | Foundational | Trained in RPA concepts for automating repetitive digital workflows and business processes. |
-| Intelligent Product Design | Foundational | Explores how automation and intelligent features can improve user workflows in web and mobile products. |
+| Intelligent Product Design | Foundational | Explores how automation and intelligent features can improve user workflows in modern web products. |
 | Data-Driven Applications | Proficient | Builds applications backed by SQL, MongoDB, and Supabase for persistent, structured, and real-time data workflows. |
 
 ---
@@ -96,7 +96,7 @@ Users can explore movies, select showtimes and theaters, choose seats, and compl
 </details>
 
 <details>
-<summary><strong>Video Editing Mobile App</strong></summary>
+<summary><strong>Video Editing Mobile App · College Project</strong></summary>
 <br>
 
 An Android video editing application that brings essential media-editing tools into a focused mobile workflow.
@@ -118,21 +118,19 @@ The application supports video trimming, grayscale filters, resolution adjustmen
 
 ## Experience
 
-### Full-Stack & Mobile Developer · Independent Projects
+### Full-Stack Developer · Independent Projects
 
 **2024 - Present**
 
-Designing and building complete web and mobile products with ownership across user interfaces, application logic, databases, real-time behavior, and backend integration.
+Designing and building complete web products with ownership across user interfaces, application logic, databases, real-time behavior, and backend integration.
 
 - Built a full-stack cinema booking workflow with payments, real-time seat blocking, and administrative CRUD operations.
-- Developed a native Android video-editing application using Java, Kotlin, XML, Supabase, and FFmpeg.
 - Created responsive React interfaces and REST-based Node.js and Express.js workflows.
 - Worked with SQL, MongoDB, and Supabase to model, store, and retrieve application data.
 - Applied user-centered thinking to simplify multi-step product interactions.
 
 ![React](https://img.shields.io/badge/React.js-312E81?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-4F46E5?style=flat-square&logo=nodedotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-6D28D9?style=flat-square&logo=android&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-7C3AED?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4338CA?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -141,7 +139,7 @@ Designing and building complete web and mobile products with ownership across us
 **2022 - 2025**
 
 - Developed strong foundations in programming, databases, web development, algorithms, and software engineering.
-- Applied academic concepts through full-stack and mobile application projects.
+- Applied academic concepts through full-stack development and a college mobile application project.
 - Expanded technical knowledge through certifications in cyber security, automation, data visualization, and Ruby on Rails.
 
 ---
@@ -154,7 +152,6 @@ Designing and building complete web and mobile products with ownership across us
 |:---|:---|
 | **Math Wonder - Runner-Up** | Secured second place for creating a Mobius strip origami model demonstrating the creative application of mathematical concepts. |
 | **Full-Stack Product Delivery** | Built a complete movie-booking workflow covering discovery, theaters, showtimes, seats, payments, and admin operations. |
-| **Native Mobile Engineering** | Developed an Android video editor integrating Supabase and FFmpeg for user management, storage, and media processing. |
 | **Computer Science Graduate** | Completed B.Sc. Computer Science from Mulund College of Commerce (Autonomous). |
 
 </div>
@@ -203,20 +200,7 @@ Designing and building complete web and mobile products with ownership across us
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashondev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="Akash's GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=akashondev&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Akash's GitHub streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashondev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" alt="Akash's most-used languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akashondev&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)
+<img width="70%" src="https://streak-stats.demolab.com?user=akashondev&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Akash's GitHub contribution streak" />
 
 </div>
 
@@ -247,12 +231,12 @@ Designing and building complete web and mobile products with ownership across us
 ```yaml
 learning:
   - Advanced React.js and full-stack application architecture
-  - Java, Kotlin, and native Android development
+  - JavaScript, React.js, and backend development
   - Data structures, algorithms, cyber security, and cloud fundamentals
 
 building:
   - User-centric web applications with React.js and Node.js
-  - Android products backed by Supabase and performance-focused tooling
+  - Full-stack products backed by modern databases and APIs
   - Portfolio projects that solve real user problems
 
 exploring:
@@ -263,7 +247,7 @@ exploring:
 open_to:
   - Frontend Developer roles
   - Full-Stack Developer roles
-  - Java and Android development opportunities
+  - JavaScript and React.js development opportunities
 ```
 
 ---
