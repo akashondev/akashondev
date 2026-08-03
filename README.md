@@ -116,48 +116,6 @@ The application supports video trimming, grayscale filters, resolution adjustmen
 
 ---
 
-## Experience
-
-### Full-Stack Developer · Independent Projects
-
-**2024 - Present**
-
-Designing and building complete web products with ownership across user interfaces, application logic, databases, real-time behavior, and backend integration.
-
-- Built a full-stack cinema booking workflow with payments, real-time seat blocking, and administrative CRUD operations.
-- Created responsive React interfaces and REST-based Node.js and Express.js workflows.
-- Worked with SQL, MongoDB, and Supabase to model, store, and retrieve application data.
-- Applied user-centered thinking to simplify multi-step product interactions.
-
-![React](https://img.shields.io/badge/React.js-312E81?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-4F46E5?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-7C3AED?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4338CA?style=flat-square&logo=mongodb&logoColor=white)
-
-### Bachelor of Science in Computer Science · Mulund College of Commerce (Autonomous)
-
-**2022 - 2025**
-
-- Developed strong foundations in programming, databases, web development, algorithms, and software engineering.
-- Applied academic concepts through full-stack development and a college mobile application project.
-- Expanded technical knowledge through certifications in cyber security, automation, data visualization, and Ruby on Rails.
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| **Math Wonder - Runner-Up** | Secured second place for creating a Mobius strip origami model demonstrating the creative application of mathematical concepts. |
-| **Full-Stack Product Delivery** | Built a complete movie-booking workflow covering discovery, theaters, showtimes, seats, payments, and admin operations. |
-| **Computer Science Graduate** | Completed B.Sc. Computer Science from Mulund College of Commerce (Autonomous). |
-
-</div>
-
----
-
 ## Certifications
 
 ### Microsoft
@@ -213,40 +171,6 @@ Designing and building complete web products with ownership across user interfac
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akashondev&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Akash%27s%20Contribution%20Graph)](https://github.com/akashondev)
 
 </div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akashondev/akashondev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
----
-
-## Current Focus
-
-```yaml
-learning:
-  - Advanced React.js and full-stack application architecture
-  - JavaScript, React.js, and backend development
-  - Data structures, algorithms, cyber security, and cloud fundamentals
-
-building:
-  - User-centric web applications with React.js and Node.js
-  - Full-stack products backed by modern databases and APIs
-  - Portfolio projects that solve real user problems
-
-exploring:
-  - AI-assisted software development
-  - Scalable backend systems and real-time application features
-  - Automation, data visualization, and cloud deployment
-
-open_to:
-  - Frontend Developer roles
-  - Full-Stack Developer roles
-  - JavaScript and React.js development opportunities
-```
 
 ---
 
