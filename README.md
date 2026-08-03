@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=Akash%20Vishwakarma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Computer%20Science%20Graduate&descAlignY=56&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=Akash%20Vishwakarma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20&descAlignY=56&descSize=17)
 
 <h3>Building User-Centric Full-Stack Web Applications</h3>
 
