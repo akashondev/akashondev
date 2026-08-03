@@ -2,13 +2,17 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=Akash%20Vishwakarma&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20Computer%20Science%20Graduate&descAlignY=56&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+user-centric+full-stack+applications;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Java+%E2%80%A2+Kotlin+%E2%80%A2+Android+%E2%80%A2+Supabase;Turning+ideas+into+scalable+digital+products)](https://git.io/typing-svg)
+<h3>Building User-Centric Full-Stack & Mobile Applications</h3>
 
-![Degree](https://img.shields.io/badge/B.Sc.-Computer%20Science-4F46E5?style=flat-square&logo=academia&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.5%2F10-6D28D9?style=flat-square&logo=bookstack&logoColor=white)
-![Graduation](https://img.shields.io/badge/Class%20of-2025-7C3AED?style=flat-square&logo=graduationcap&logoColor=white)
+<p><strong>React.js · Node.js · Express.js · MongoDB · Java · Kotlin · Android · Supabase</strong></p>
 
-[![Portfolio](https://img.shields.io/badge/PROJECTS-PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/akashondev?tab=repositories)
+<p>Turning ideas into reliable, scalable, and thoughtfully engineered digital products.</p>
+
+![Degree](https://img.shields.io/badge/B.Sc.-Computer%20Science-4F46E5?style=flat-square&logo=googlescholar&logoColor=white)
+![Graduation](https://img.shields.io/badge/Graduate-Class%20of%202025-7C3AED?style=flat-square&logo=googleclassroom&logoColor=white)
+![Location](https://img.shields.io/badge/Mumbai-India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)
+
+[![Portfolio](https://img.shields.io/badge/PROJECTS-PORTFOLIO-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashondev?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-vishwakarma-9b3b2b363/)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashvishwakarma1024@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashondev)
@@ -134,7 +138,7 @@ Designing and building complete web and mobile products with ownership across us
 
 ### Bachelor of Science in Computer Science · Mulund College of Commerce (Autonomous)
 
-**2022 - 2025 · CGPA: 7.5/10**
+**2022 - 2025**
 
 - Developed strong foundations in programming, databases, web development, algorithms, and software engineering.
 - Applied academic concepts through full-stack and mobile application projects.
@@ -151,7 +155,7 @@ Designing and building complete web and mobile products with ownership across us
 | **Math Wonder - Runner-Up** | Secured second place for creating a Mobius strip origami model demonstrating the creative application of mathematical concepts. |
 | **Full-Stack Product Delivery** | Built a complete movie-booking workflow covering discovery, theaters, showtimes, seats, payments, and admin operations. |
 | **Native Mobile Engineering** | Developed an Android video editor integrating Supabase and FFmpeg for user management, storage, and media processing. |
-| **Computer Science Graduate** | Completed B.Sc. Computer Science from Mulund College of Commerce (Autonomous) with a CGPA of 7.5/10. |
+| **Computer Science Graduate** | Completed B.Sc. Computer Science from Mulund College of Commerce (Autonomous). |
 
 </div>
 
@@ -166,7 +170,7 @@ Designing and building complete web and mobile products with ownership across us
 
 ### Automation & Data
 
-![RPA](https://img.shields.io/badge/Certification-Robotic%20Process%20Automation-6D28D9?style=for-the-badge&logo=robotframework&logoColor=white)
+![RPA](https://img.shields.io/badge/Certification-Robotic%20Process%20Automation-6D28D9?style=for-the-badge&logo=uipath&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Certification-Tableau%20Data%20Visualization-7C3AED?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Development
@@ -271,7 +275,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/GMAIL-AKASHVISHWAKARMA1024-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashvishwakarma1024@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-AKASH%20VISHWAKARMA-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-vishwakarma-9b3b2b363/)
 [![GitHub](https://img.shields.io/badge/GITHUB-AKASHONDEV-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashondev)
-[![Portfolio](https://img.shields.io/badge/PROJECTS-PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/akashondev?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/PROJECTS-PORTFOLIO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashondev?tab=repositories)
 
 </div>
 
